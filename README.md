@@ -38,12 +38,12 @@ This is a small server application that runs [Eel](https://github.com/samuelhwil
 2. **Display a Message:**
    Open a web browser and enter the following URL, replacing `YOUR_MESSAGE` with your desired message:
    ```
-   http://localhost:8000/create_message?title=YOUR_MESSAGE
+   http://HOST_IP:5000/create_message?title=YOUR_TITLE&content=YOUR_MESSAGE&sender=YOUR_NAME
    ```
 
    Example:
    ```
-   http://localhost:8000/display?message=Hello%20World
+   http://HOST_IP:5000/create_message?title=Hello+World&content=How+are+you?&sender=Nils
    ```
 
    This will display "Hello World" on the screen.
