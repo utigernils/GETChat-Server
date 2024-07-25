@@ -1,5 +1,7 @@
 # GETChat-Server
 This is a small server application that runs [Eel](https://github.com/samuelhwilliams/Eel) to display messages received via HTTP GET requests. This allows anyone on the local network to display a message on the screen by adding parameters to an HTTP link.
+![image](https://github.com/user-attachments/assets/a355453e-b3f5-40e2-adf9-e9129fe7b2d1)
+
 
 ## Features
 
